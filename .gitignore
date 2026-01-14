@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+venv/
+
+alembic/versions/__pycache__/
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
